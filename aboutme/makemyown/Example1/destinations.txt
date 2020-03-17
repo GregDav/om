@@ -1,0 +1,387 @@
+<map name="map1">
+    <area shape=rect coords="0,0,138,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=acanthametra/big two spike star copy.png">
+    <area shape=rect coords="138,0,276,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=acanthametra/core with pipes and spikes copy.png">
+    <area shape=rect coords="276,0,414,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=acanthametra/dipolar central star copy.png">
+    <area shape=rect coords="414,0,552,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=acanthametra/dipolar with wings copy.png">
+    <area shape=rect coords="552,0,690,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=acanthametra/eight spikes and needles copy.png">
+    <area shape=rect coords="0,138,138,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=acanthametra/eight way with spikes and needles copy.png">
+    <area shape=rect coords="138,138,276,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=acanthametra/filet core spikes jaggies copy.png">
+    <area shape=rect coords="276,138,414,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=acanthametra/jack with four meshes copy.png">
+    <area shape=rect coords="414,138,552,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=ascidiae/aqua nine flower copy.png">
+    <area shape=rect coords="552,138,690,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=ascidiae/blue burst ahedron copy.png">
+    <area shape=rect coords="0,276,138,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=ascidiae/brown eight star copy.png">
+    <area shape=rect coords="138,276,276,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=ascidiae/cross of venus copy.png">
+    <area shape=rect coords="276,276,414,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=ascidiae/olive pin cushion pink fruff copy.png">
+    <area shape=rect coords="414,276,552,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=ascidiae/orange ten branch copy.png">
+    <area shape=rect coords="552,276,690,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=ascidiae/paisley egg copy.png">
+    <area shape=rect coords="0,414,138,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=ascidiae/pink pin cushion copy.png">
+    <area shape=rect coords="138,414,276,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=ascidiae/six petal baseball copy.png">
+    <area shape=rect coords="276,414,414,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=ascidiae/six star copy.png">
+    <area shape=rect coords="414,414,552,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=ascidiae/tan nine copy.png">
+    <area shape=rect coords="552,414,690,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=ascidiae/yellow anenome copy.png">
+    <area shape=rect coords="0,552,138,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=blastoidea/ball copy.png">
+    <area shape=rect coords="138,552,276,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=blastoidea/ball star copy.png">
+    <area shape=rect coords="276,552,414,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=blastoidea/caterpillar copy.png">
+    <area shape=rect coords="414,552,552,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=blastoidea/curved torpedo copy.png">
+    <area shape=rect coords="552,552,690,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=blastoidea/fat five star with mouth hole copy.png">
+</map>
+<center>
+<img src="gen/Index-001.jpg" usemap="#map1" alt="Index image 1" border="0">
+</center>
+<map name="map2">
+    <area shape=rect coords="0,0,138,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=blastoidea/five made of six copy.png">
+    <area shape=rect coords="138,0,276,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=blastoidea/geometric star copy.png">
+    <area shape=rect coords="276,0,414,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=blastoidea/one long lobe copy.png">
+    <area shape=rect coords="414,0,552,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=blastoidea/open row of tentacles copy.png">
+    <area shape=rect coords="552,0,690,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=blastoidea/open with tiled surface copy.png">
+    <area shape=rect coords="0,138,138,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=blastoidea/scored torpedo copy.png">
+    <area shape=rect coords="138,138,276,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=blastoidea/side view copy.png">
+    <area shape=rect coords="276,138,414,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=blastoidea/side view pointed copy.png">
+    <area shape=rect coords="414,138,552,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=blastoidea/stars within stars copy.png">
+    <area shape=rect coords="552,138,690,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=blastoidea/tropedo turtle copy.png">
+    <area shape=rect coords="0,276,138,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=blastoidea/underview copy.png">
+    <area shape=rect coords="138,276,276,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=blastoidea/zippers copy.png">
+    <area shape=rect coords="276,276,414,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=blastoidea/zippers with hole copy.png">
+    <area shape=rect coords="414,276,552,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=bryozoa/big frond with two disks copy.png">
+    <area shape=rect coords="552,276,690,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=bryozoa/double palmate fronds copy.png">
+    <area shape=rect coords="0,414,138,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=bryozoa/dove fronds copy.png">
+    <area shape=rect coords="138,414,276,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=bryozoa/egg with twenty trees copy.png">
+    <area shape=rect coords="276,414,414,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=bryozoa/four doublerow fronds copy.png">
+    <area shape=rect coords="414,414,552,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=bryozoa/palmate branching fronds copy.png">
+    <area shape=rect coords="552,414,690,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=bryozoa/slug with fronds copy.png">
+    <area shape=rect coords="0,552,138,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=bryozoa/three double fronds copy.png">
+    <area shape=rect coords="138,552,276,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=bryozoa/three layer egg with cilia copy.png">
+    <area shape=rect coords="276,552,414,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=bryozoa/worm with fronds copy.png">
+    <area shape=rect coords="414,552,552,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=cystoidea/ball of dots pentabranch copy.png">
+    <area shape=rect coords="552,552,690,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=cystoidea/big frills copy.png">
+</map>
+<center>
+<img src="gen/Index-002.jpg" usemap="#map2" alt="Index image 2" border="0">
+</center>
+<map name="map3">
+    <area shape=rect coords="0,0,138,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=cystoidea/brain ball copy.png">
+    <area shape=rect coords="138,0,276,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=cystoidea/four tentacles and tail copy.png">
+    <area shape=rect coords="276,0,414,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=cystoidea/knobbled surface copy.png">
+    <area shape=rect coords="414,0,552,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=cystoidea/leafy paths copy.png">
+    <area shape=rect coords="552,0,690,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=cystoidea/multibranch copy.png">
+    <area shape=rect coords="0,138,138,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=cystoidea/nine tentacles and tail copy.png">
+    <area shape=rect coords="138,138,276,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=cystoidea/regular pentabranch copy.png">
+    <area shape=rect coords="276,138,414,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=cystoidea/side view with spike and eye copy.png">
+    <area shape=rect coords="414,138,552,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=cystoidea/sliced open copy.png">
+    <area shape=rect coords="552,138,690,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=cystoidea/star ball copy.png">
+    <area shape=rect coords="0,276,138,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=cystoidea/sun with tail copy.png">
+    <area shape=rect coords="138,276,276,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=cystoidea/turtle shell copy.png">
+    <area shape=rect coords="276,276,414,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=cystoidea/virus with many tentacles copy.png">
+    <area shape=rect coords="414,276,552,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=desmidiea/double jaggies with green centers copy.png">
+    <area shape=rect coords="552,276,690,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=desmidiea/double triangle copy.png">
+    <area shape=rect coords="0,414,138,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=desmidiea/eight spikes copy.png">
+    <area shape=rect coords="138,414,276,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=desmidiea/eight spikes top view copy.png">
+    <area shape=rect coords="276,414,414,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=desmidiea/green diamond copy.png">
+    <area shape=rect coords="414,414,552,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=desmidiea/green helix copy.png">
+    <area shape=rect coords="552,414,690,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=desmidiea/mirror with double curves copy.png">
+    <area shape=rect coords="0,552,138,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=desmidiea/mirror with pink dots copy.png">
+    <area shape=rect coords="138,552,276,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=desmidiea/notched mirror disk copy.png">
+    <area shape=rect coords="276,552,414,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=desmidiea/pickle copy.png">
+    <area shape=rect coords="414,552,552,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=desmidiea/pink fringe copy.png">
+    <area shape=rect coords="552,552,690,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=desmidiea/sixs arms copy.png">
+</map>
+<center>
+<img src="gen/Index-003.jpg" usemap="#map3" alt="Index image 3" border="0">
+</center>
+<map name="map4">
+    <area shape=rect coords="0,0,138,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=desmidiea/triangle copy.png">
+    <area shape=rect coords="138,0,276,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=desmidiea/triple double hookers copy.png">
+    <area shape=rect coords="276,0,414,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=desmidiea/white jaggie branches copy.png">
+    <area shape=rect coords="414,0,552,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=diatomea/axial branch copy.png">
+    <area shape=rect coords="552,0,690,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=diatomea/axial stripes copy.png">
+    <area shape=rect coords="0,138,138,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=diatomea/chain of antenna copy.png">
+    <area shape=rect coords="138,138,276,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=diatomea/chain of pills copy.png">
+    <area shape=rect coords="276,138,414,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=diatomea/claw leaves copy.png">
+    <area shape=rect coords="414,138,552,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=diatomea/dipolar ridges copy.png">
+    <area shape=rect coords="552,138,690,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=diatomea/eight star copy.png">
+    <area shape=rect coords="0,276,138,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=diatomea/eight star suckers copy.png">
+    <area shape=rect coords="138,276,276,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=diatomea/four double spikes copy.png">
+    <area shape=rect coords="276,276,414,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=diatomea/ladder copy.png">
+    <area shape=rect coords="414,276,552,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=diatomea/lemon ridges copy.png">
+    <area shape=rect coords="552,276,690,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=diatomea/lightning nodule copy.png">
+    <area shape=rect coords="0,414,138,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=diatomea/palms copy.png">
+    <area shape=rect coords="138,414,276,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=diatomea/square with cross copy.png">
+    <area shape=rect coords="276,414,414,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=diatomea/striated peanut copy.png">
+    <area shape=rect coords="414,414,552,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=diatomea/triangle with bolts copy.png">
+    <area shape=rect coords="552,414,690,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=diatomea/zipper copy.png">
+    <area shape=rect coords="0,552,138,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=diatomea2/big ten copy.png">
+    <area shape=rect coords="138,552,276,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=diatomea2/dipole radial copy.png">
+    <area shape=rect coords="276,552,414,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=diatomea2/double labia copy.png">
+    <area shape=rect coords="414,552,552,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=diatomea2/double row x copy.png">
+    <area shape=rect coords="552,552,690,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=diatomea2/dual double stripe copy.png">
+</map>
+<center>
+<img src="gen/Index-004.jpg" usemap="#map4" alt="Index image 4" border="0">
+</center>
+<map name="map5">
+    <area shape=rect coords="0,0,138,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=diatomea2/dual onion center saddle copy.png">
+    <area shape=rect coords="138,0,276,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=diatomea2/eight holes copy.png">
+    <area shape=rect coords="276,0,414,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=diatomea2/five star copy.png">
+    <area shape=rect coords="414,0,552,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=diatomea2/four circular texture copy.png">
+    <area shape=rect coords="552,0,690,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=diatomea2/horny square dendrites copy.png">
+    <area shape=rect coords="0,138,138,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=diatomea2/long comb copy.png">
+    <area shape=rect coords="138,138,276,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=diatomea2/long striation copy.png">
+    <area shape=rect coords="276,138,414,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=diatomea2/oblong crev copy.png">
+    <area shape=rect coords="414,138,552,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=diatomea2/quad dots copy.png">
+    <area shape=rect coords="552,138,690,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=diatomea2/quad holes copy.png">
+    <area shape=rect coords="0,276,138,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=diatomea2/round tri two dots copy.png">
+    <area shape=rect coords="138,276,276,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=diatomea2/stage copy.png">
+    <area shape=rect coords="276,276,414,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=diatomea2/stage with horns copy.png">
+    <area shape=rect coords="414,276,552,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=diatomea2/tri hex dots copy.png">
+    <area shape=rect coords="552,276,690,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=diatomea2/tri pod copy.png">
+    <area shape=rect coords="0,414,138,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=diatomea2/triangle iris copy.png">
+    <area shape=rect coords="138,414,276,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=diatomea2/twenty-two copy.png">
+    <area shape=rect coords="276,414,414,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=discoidea/big four copy.png">
+    <area shape=rect coords="414,414,552,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=discoidea/branching radiality copy.png">
+    <area shape=rect coords="552,414,690,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=discoidea/butterfly copy.png">
+    <area shape=rect coords="0,552,138,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=discoidea/eight lobes copy.png">
+    <area shape=rect coords="138,552,276,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=discoidea/eight petals copy.png">
+    <area shape=rect coords="276,552,414,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=discoidea/five star copy.png">
+    <area shape=rect coords="414,552,552,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=discoidea/four hole diamond copy.png">
+    <area shape=rect coords="552,552,690,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=discoidea/six lobed lung copy.png">
+</map>
+<center>
+<img src="gen/Index-005.jpg" usemap="#map5" alt="Index image 5" border="0">
+</center>
+<map name="map6">
+    <area shape=rect coords="0,0,138,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=discoidea/six petals copy.png">
+    <area shape=rect coords="138,0,276,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=discoidea/spikes and tail copy.png">
+    <area shape=rect coords="276,0,414,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=discoidea/three lobes with spikes copy.png">
+    <area shape=rect coords="414,0,552,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=discoidea/three lobes with tail copy.png">
+    <area shape=rect coords="552,0,690,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=echinidea/barnacle copy.png">
+    <area shape=rect coords="0,138,138,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=echinidea/big tentacles copy.png">
+    <area shape=rect coords="138,138,276,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=echinidea/cap copy.png">
+    <area shape=rect coords="276,138,414,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=echinidea/cross section copy.png">
+    <area shape=rect coords="414,138,552,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=echinidea/dribbly five star copy.png">
+    <area shape=rect coords="552,138,690,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=echinidea/handle copy.png">
+    <area shape=rect coords="0,276,138,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=echinidea/knobbly disc copy.png">
+    <area shape=rect coords="138,276,276,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=echinidea/nipple copy.png">
+    <area shape=rect coords="276,276,414,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=echinidea/radial lace copy.png">
+    <area shape=rect coords="414,276,552,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=echinidea/serrated ridges copy.png">
+    <area shape=rect coords="552,276,690,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=echinidea/thorn stick copy.png">
+    <area shape=rect coords="0,414,138,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=lichenes/branching hexagonal tubes copy.png">
+    <area shape=rect coords="138,414,276,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=lichenes/branching surface copy.png">
+    <area shape=rect coords="276,414,414,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=lichenes/edge trumpets copy.png">
+    <area shape=rect coords="414,414,552,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=lichenes/frills with fruit copy.png">
+    <area shape=rect coords="552,414,690,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=lichenes/frilly moon copy.png">
+    <area shape=rect coords="0,552,138,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=lichenes/fruity branches copy.png">
+    <area shape=rect coords="138,552,276,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=lichenes/funnel with seeds copy.png">
+    <area shape=rect coords="276,552,414,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=lichenes/leafy frilly copy.png">
+    <area shape=rect coords="414,552,552,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=lichenes/lobes with beans and fingers copy.png">
+    <area shape=rect coords="552,552,690,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=lichenes/multi-umbrella copy.png">
+</map>
+<center>
+<img src="gen/Index-006.jpg" usemap="#map6" alt="Index image 6" border="0">
+</center>
+<map name="map7">
+    <area shape=rect coords="0,0,138,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=lichenes/scaly branches copy.png">
+    <area shape=rect coords="138,0,276,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=melethallia/black red hole star copy.png">
+    <area shape=rect coords="276,0,414,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=melethallia/eight white red copy.png">
+    <area shape=rect coords="414,0,552,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=melethallia/five fourteen twenty-eight copy.png">
+    <area shape=rect coords="552,0,690,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=melethallia/five ten copy.png">
+    <area shape=rect coords="0,138,138,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=melethallia/four eight sixteen copy.png">
+    <area shape=rect coords="138,138,276,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=melethallia/four white red thorn copy.png">
+    <area shape=rect coords="276,138,414,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=melethallia/oblong black red thorns copy.png">
+    <area shape=rect coords="414,138,552,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=melethallia/one five black red copy.png">
+    <area shape=rect coords="552,138,690,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=melethallia/one five ten lightbulb copy.png">
+    <area shape=rect coords="0,276,138,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=melethallia/one five ten sixteen copy.png">
+    <area shape=rect coords="138,276,276,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=melethallia/one seven face copy.png">
+    <area shape=rect coords="276,276,414,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=melethallia/three seven thirteen copy.png">
+    <area shape=rect coords="414,276,552,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=melethallia/two six black red copy.png">
+    <area shape=rect coords="552,276,690,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=melethallia/two six black red horns copy.png">
+    <area shape=rect coords="0,414,138,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=melethallia/two six crescent copy.png">
+    <area shape=rect coords="138,414,276,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=mycetozoa/ball of stars copy.png">
+    <area shape=rect coords="276,414,414,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=mycetozoa/ball of trails copy.png">
+    <area shape=rect coords="414,414,552,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=mycetozoa/big morel copy.png">
+    <area shape=rect coords="552,414,690,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=mycetozoa/cluster of ovals copy.png">
+    <area shape=rect coords="0,552,138,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=mycetozoa/cross section copy.png">
+    <area shape=rect coords="138,552,276,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=mycetozoa/flower top copy.png">
+    <area shape=rect coords="276,552,414,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=mycetozoa/footballs copy.png">
+    <area shape=rect coords="414,552,552,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=mycetozoa/frills copy.png">
+    <area shape=rect coords="552,552,690,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=mycetozoa/geometric top copy.png">
+</map>
+<center>
+<img src="gen/Index-007.jpg" usemap="#map7" alt="Index image 7" border="0">
+</center>
+<map name="map8">
+    <area shape=rect coords="0,0,138,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=mycetozoa/hanging bulb copy.png">
+    <area shape=rect coords="138,0,276,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=mycetozoa/hanging bulb with ridges copy.png">
+    <area shape=rect coords="276,0,414,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=mycetozoa/helical worm copy.png">
+    <area shape=rect coords="414,0,552,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=mycetozoa/hot dogs copy.png">
+    <area shape=rect coords="552,0,690,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=mycetozoa/lacy bud copy.png">
+    <area shape=rect coords="0,138,138,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=mycetozoa/phallicap copy.png">
+    <area shape=rect coords="138,138,276,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=mycetozoa/shroom of trails copy.png">
+    <area shape=rect coords="276,138,414,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=mycetozoa/sperm copy.png">
+    <area shape=rect coords="414,138,552,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=mycetozoa/spiky worm copy.png">
+    <area shape=rect coords="552,138,690,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=mycetozoa/spores break out copy.png">
+    <area shape=rect coords="0,276,138,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=mycetozoa/twisted stem copy.png">
+    <area shape=rect coords="138,276,276,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=nudibranchia/brown trees copy.png">
+    <area shape=rect coords="276,276,414,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=nudibranchia/pink leaves copy.png">
+    <area shape=rect coords="414,276,552,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=nudibranchia/red fingers copy.png">
+    <area shape=rect coords="552,276,690,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=nudibranchia/red tipped bunches copy.png">
+    <area shape=rect coords="0,414,138,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=nudibranchia/white body copy.png">
+    <area shape=rect coords="138,414,276,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=nudibranchia/white flowers copy.png">
+    <area shape=rect coords="276,414,414,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=nudibranchia/yellow feather duster copy.png">
+    <area shape=rect coords="414,414,552,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=ophiodea/bouquet of plates copy.png">
+    <area shape=rect coords="552,414,690,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=ophiodea/chunky five mouth copy.png">
+    <area shape=rect coords="0,552,138,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=ophiodea/knobbly surface copy.png">
+    <area shape=rect coords="138,552,276,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=ophiodea/many many curly tentacles copy.png">
+    <area shape=rect coords="276,552,414,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=ophiodea/many many curly tentacles with hole copy.png">
+    <area shape=rect coords="414,552,552,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=ophiodea/strawberry with many mushrooms copy.png">
+    <area shape=rect coords="552,552,690,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=ophiodea/thorney five star copy.png">
+</map>
+<center>
+<img src="gen/Index-008.jpg" usemap="#map8" alt="Index image 8" border="0">
+</center>
+<map name="map9">
+    <area shape=rect coords="0,0,138,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=ophiodea/two spikey legs copy.png">
+    <area shape=rect coords="138,0,276,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=platodes/claw mouth copy.png">
+    <area shape=rect coords="276,0,414,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=platodes/cross section copy.png">
+    <area shape=rect coords="414,0,552,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=platodes/cylinder copy.png">
+    <area shape=rect coords="552,0,690,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=platodes/double helix copy.png">
+    <area shape=rect coords="0,138,138,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=platodes/external orange copy.png">
+    <area shape=rect coords="138,138,276,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=platodes/four snozzles copy.png">
+    <area shape=rect coords="276,138,414,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=platodes/four tentacles copy.png">
+    <area shape=rect coords="414,138,552,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=platodes/four way fringe copy.png">
+    <area shape=rect coords="552,138,690,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=platodes/frilly tail copy.png">
+    <area shape=rect coords="0,276,138,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=platodes/knobby end copy.png">
+    <area shape=rect coords="138,276,276,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=platodes/phallus with eyes copy.png">
+    <area shape=rect coords="276,276,414,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=platodes/six ports copy.png">
+    <area shape=rect coords="414,276,552,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=platodes/twins copy.png">
+    <area shape=rect coords="552,276,690,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=platodes/two tail copy.png">
+    <area shape=rect coords="0,414,138,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=polycyttaria/barbed wire eyes copy.png">
+    <area shape=rect coords="138,414,276,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=polycyttaria/branching horns copy.png">
+    <area shape=rect coords="276,414,414,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=polycyttaria/five trumpets copy.png">
+    <area shape=rect coords="414,414,552,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=polycyttaria/octohedron copy.png">
+    <area shape=rect coords="552,414,690,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=polycyttaria/ring copy.png">
+    <area shape=rect coords="0,552,138,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=polycyttaria/six spikes copy.png">
+    <area shape=rect coords="138,552,276,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=polycyttaria/sixteen black dot tentacles copy.png">
+    <area shape=rect coords="276,552,414,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=polycyttaria/sphere hole tube copy.png">
+    <area shape=rect coords="414,552,552,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=polycyttaria/spikes only copy.png">
+    <area shape=rect coords="552,552,690,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=polycyttaria/spikey tubes copy.png">
+</map>
+<center>
+<img src="gen/Index-009.jpg" usemap="#map9" alt="Index image 9" border="0">
+</center>
+<map name="map10">
+    <area shape=rect coords="0,0,138,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=polycyttaria/ten horn egg copy.png">
+    <area shape=rect coords="138,0,276,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=polycyttaria/twelve horns and holes copy.png">
+    <area shape=rect coords="276,0,414,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=radial/anthromedusae 1 copy.png">
+    <area shape=rect coords="414,0,552,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=radial/anthromedusae 2 copy.png">
+    <area shape=rect coords="552,0,690,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=radial/arachnidea 1 copy.png">
+    <area shape=rect coords="0,138,138,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=radial/ascomycetes 1 copy.png">
+    <area shape=rect coords="138,138,276,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=radial/asteridae 1 copy.png">
+    <area shape=rect coords="276,138,414,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=radial/asteridae 2 copy.png">
+    <area shape=rect coords="414,138,552,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=radial/asteridae 3 copy.png">
+    <area shape=rect coords="552,138,690,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=radial/asteridae 4 copy.png">
+    <area shape=rect coords="0,276,138,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=radial/campinariae 1 copy.png">
+    <area shape=rect coords="138,276,276,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=radial/cubomedusae 1 copy.png">
+    <area shape=rect coords="276,276,414,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=radial/cubomedusae 2 copy.png">
+    <area shape=rect coords="414,276,552,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=radial/discomedusae 1 copy.png">
+    <area shape=rect coords="552,276,690,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=radial/discomedusae 2 copy.png">
+    <area shape=rect coords="0,414,138,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=radial/discomedusae 3 copy.png">
+    <area shape=rect coords="138,414,276,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=radial/discomedusae 4 copy.png">
+    <area shape=rect coords="276,414,414,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=radial/discomedusae 5 copy.png">
+    <area shape=rect coords="414,414,552,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=radial/discomedusae 6 copy.png">
+    <area shape=rect coords="552,414,690,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=radial/hepaticae 1 copy.png">
+    <area shape=rect coords="0,552,138,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=radial/leptomedusae 1 copy.png">
+    <area shape=rect coords="138,552,276,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=radial/leptomedusae 2 copy.png">
+    <area shape=rect coords="276,552,414,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=radial/narcomedusae 1 copy.png">
+    <area shape=rect coords="414,552,552,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=radial/narcomedusae 2 copy.png">
+    <area shape=rect coords="552,552,690,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=radial/narcomedusae 3 copy.png">
+</map>
+<center>
+<img src="gen/Index-010.jpg" usemap="#map10" alt="Index image 10" border="0">
+</center>
+<map name="map11">
+    <area shape=rect coords="0,0,138,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=radial/narcomedusae 4 copy.png">
+    <area shape=rect coords="138,0,276,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=radial/peromedusae 1 copy.png">
+    <area shape=rect coords="276,0,414,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=radial/peromedusae 2 copy.png">
+    <area shape=rect coords="414,0,552,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=radial/platodes 1 copy.png">
+    <area shape=rect coords="552,0,690,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=radial/platodes 2 copy.png">
+    <area shape=rect coords="0,138,138,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=radial/siphoneae 1 copy.png">
+    <area shape=rect coords="138,138,276,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=radial/siphonophorae 1 copy.png">
+    <area shape=rect coords="276,138,414,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=radial/siphonophorae 2 copy.png">
+    <area shape=rect coords="414,138,552,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=radial/siphonophorae 4 copy.png">
+    <area shape=rect coords="552,138,690,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=radial/siphonophorae 5 copy.png">
+    <area shape=rect coords="0,276,138,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=siphonophorae/blue frill with yellow center copy.png">
+    <area shape=rect coords="138,276,276,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=siphonophorae/brown mouth blue branching arms copy.png">
+    <area shape=rect coords="276,276,414,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=siphonophorae/eight blue arms copy.png">
+    <area shape=rect coords="414,276,552,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=siphonophorae/eight slices copy.png">
+    <area shape=rect coords="552,276,690,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=siphonophorae/frilly collar copy.png">
+    <area shape=rect coords="0,414,138,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=siphonophorae/hanging mouth with many urns copy.png">
+    <area shape=rect coords="138,414,276,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=siphonophorae/hanging mouth with urn ring copy.png">
+    <area shape=rect coords="276,414,414,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=siphonophorae/radial view copy.png">
+    <area shape=rect coords="414,414,552,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=siphonophorae/radial view with hole copy.png">
+    <area shape=rect coords="552,414,690,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=siphonophorae/urn cluster copy.png">
+    <area shape=rect coords="0,552,138,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=siphonophorae/white marbles with red handle copy.png">
+    <area shape=rect coords="138,552,276,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=spirobranchia/back of scallop copy.png">
+    <area shape=rect coords="276,552,414,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=spirobranchia/branchie scallop copy.png">
+    <area shape=rect coords="414,552,552,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=spirobranchia/curl ear shell copy.png">
+    <area shape=rect coords="552,552,690,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=spirobranchia/deep double spiral copy.png">
+</map>
+<center>
+<img src="gen/Index-011.jpg" usemap="#map11" alt="Index image 11" border="0">
+</center>
+<map name="map12">
+    <area shape=rect coords="0,0,138,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=spirobranchia/double cone spiral shell copy.png">
+    <area shape=rect coords="138,0,276,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=spirobranchia/double mouth fountain copy.png">
+    <area shape=rect coords="276,0,414,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=spirobranchia/edge on scallop copy.png">
+    <area shape=rect coords="414,0,552,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=spirobranchia/hairy curly copy.png">
+    <area shape=rect coords="552,0,690,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=spirobranchia/hairy squid copy.png">
+    <area shape=rect coords="0,138,138,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=spirobranchia/heart lung frill copy.png">
+    <area shape=rect coords="138,138,276,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=spirobranchia/hood strap copy.png">
+    <area shape=rect coords="276,138,414,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=spirobranchia/horn gill copy.png">
+    <area shape=rect coords="414,138,552,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=spirobranchia/loose double spiral copy.png">
+    <area shape=rect coords="552,138,690,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=spirobranchia/molluscal heart copy.png">
+    <area shape=rect coords="0,276,138,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=spirobranchia/moth copy.png">
+    <area shape=rect coords="138,276,276,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=spirobranchia/mouth shell copy.png">
+    <area shape=rect coords="276,276,414,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=spirobranchia/scallop copy.png">
+    <area shape=rect coords="414,276,552,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=spirobranchia/side scallop copy.png">
+    <area shape=rect coords="552,276,690,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=spirobranchia/spikey double spiral copy.png">
+    <area shape=rect coords="0,414,138,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=spirobranchia/spikey lung dog copy.png">
+    <area shape=rect coords="138,414,276,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=spirobranchia/spiral gills copy.png">
+    <area shape=rect coords="276,414,414,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=spirobranchia/spiral horns hood copy.png">
+    <area shape=rect coords="414,414,552,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=spirobranchia/turned wings copy.png">
+    <area shape=rect coords="552,414,690,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=spirobranchia/ziggle shell copy.png">
+    <area shape=rect coords="0,552,138,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=spumellaria/big four branch copy.png">
+    <area shape=rect coords="138,552,276,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=spumellaria/clowns with exposed nodule copy.png">
+    <area shape=rect coords="276,552,414,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=spumellaria/clowns with thorns copy.png">
+    <area shape=rect coords="414,552,552,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=spumellaria/cubic copy.png">
+    <area shape=rect coords="552,552,690,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=spumellaria/cutaway copy.png">
+</map>
+<center>
+<img src="gen/Index-012.jpg" usemap="#map12" alt="Index image 12" border="0">
+</center>
+<map name="map13">
+    <area shape=rect coords="0,0,138,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=spumellaria/double clown copy.png">
+    <area shape=rect coords="138,0,276,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=spumellaria/double cone copy.png">
+    <area shape=rect coords="276,0,414,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=spumellaria/double cone with walls copy.png">
+    <area shape=rect coords="414,0,552,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=spumellaria/knives on ends copy.png">
+    <area shape=rect coords="552,0,690,138" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=spumellaria/octohedral with sprouts and nodule copy.png">
+    <area shape=rect coords="0,138,138,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=spumellaria/spikes on domes copy.png">
+    <area shape=rect coords="138,138,276,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=spumellaria/spikey hex lattice copy.png">
+    <area shape=rect coords="276,138,414,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=spumellaria/triangle with spikes copy.png">
+    <area shape=rect coords="414,138,552,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=spumellaria/triangles copy.png">
+    <area shape=rect coords="552,138,690,276" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=spumellaria/whiffle star copy.png">
+    <area shape=rect coords="0,276,138,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=stephoidea/crown copy.png">
+    <area shape=rect coords="138,276,276,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=stephoidea/double egg with blades copy.png">
+    <area shape=rect coords="276,276,414,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=stephoidea/double pincers copy.png">
+    <area shape=rect coords="414,276,552,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=stephoidea/egg with cylinder copy.png">
+    <area shape=rect coords="552,276,690,414" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=stephoidea/egg with eight section trellis copy.png">
+    <area shape=rect coords="0,414,138,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=stephoidea/egg with sprouting cube copy.png">
+    <area shape=rect coords="138,414,276,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=stephoidea/eight way gazebo copy.png">
+    <area shape=rect coords="276,414,414,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=stephoidea/gazebo with horns copy.png">
+    <area shape=rect coords="414,414,552,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=stephoidea/gazebo with top star copy.png">
+    <area shape=rect coords="552,414,690,552" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=stephoidea/lettuce copy.png">
+    <area shape=rect coords="0,552,138,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=stephoidea/magenta face with yellow dots copy.png">
+    <area shape=rect coords="138,552,276,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=stephoidea/space gazebo copy.png">
+    <area shape=rect coords="276,552,414,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=stephoidea/sprouting gazebo copy.png">
+    <area shape=rect coords="414,552,552,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=thalamophora/alternating spiral copy.png">
+    <area shape=rect coords="552,552,690,690" http://draves.org/pix/frame3.cgi?zoom=1&dir=kdn&file=thalamophora/deep spiral copy.png">
+</map>
