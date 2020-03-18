@@ -9,7 +9,7 @@
 ```
 Currently developed for Firefox. 
 
-<img src="https://raw.githubusercontent.com/GregDav/om/blob/master/aboutme/documents/ompage.jpg" title="headshot" alt="headshot">
+<img src="https://raw.githubusercontent.com/GregDav/om/blob/master/aboutme/documents/aboutme.jpg" title="headshot" alt="headshot">
 
 ## What am I?
 
