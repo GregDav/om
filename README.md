@@ -5,10 +5,10 @@
  | |\/| |/ _ \\__ \ |_| (_) | |   / ' \| |) |
  |_|  |_/_/ \_\___/____\___/  |_|_\_||_|___/ 
  
+```
 Currently developed for Firefox. 
 ▶ ▲ ▼ - 03/17/2020
 
-```
 ## What am I?
 
 Maslo Om is a creation platform. It allows to stack, view and manipulate any type of information according to a highly accessible, adaptable and expandable UX and architecture. You can take apart any piece of the platform, plant it in your environement and grow your own platform.
