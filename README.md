@@ -1,4 +1,5 @@
 # Maslo Om
+```shell
   __  __   _   ___ _    ___    ___      ___  
  |  \/  | /_\ / __| |  / _ \  | _ \_ _ |   \ 
  | |\/| |/ _ \\__ \ |_| (_) | |   / ' \| |) |
@@ -7,6 +8,7 @@
 Currently developed for Firefox. 
 ▶ ▲ ▼ - 03/17/2020
 
+```
 ## What am I?
 
 Maslo Om is a creation platform. It allows to stack, view and manipulate any type of information according to a highly accessible, adaptable and expandable UX and architecture. You can take apart any piece of the platform, plant it in your environement and grow your own platform.
@@ -14,15 +16,15 @@ Maslo Om is a creation platform. It allows to stack, view and manipulate any typ
 
 ## How to view?
 
-_ (Soon here: a link to view the platform online)
+* (Soon here: a link to view the platform online)
 
 ## How to install?
 
-_ First, you may have to bypass CORS error:
-_ paste "about:config" in the URL bar of firefox
-_ then paste "security.fileuri.strict_origin_policy" in Search Preference Name
-_ then switch variable to false
-_ you can now browse, add and customize doors and content.
+* First, you may have to bypass CORS error:
+* paste "about:config" in the URL bar of firefox
+* then paste "security.fileuri.strict_origin_policy" in Search Preference Name
+* then switch variable to false
+* you can now browse, add and customize doors and content.
 
 ## how to add content?
 
