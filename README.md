@@ -9,6 +9,7 @@
 ```
 Currently developed for Firefox. 
 
+<img src="https://raw.githubusercontent.com/GregDav/Maslo/master/born/Orage/orage.jpg" title="headshot" alt="headshot">
 
 ## What am I?
 
@@ -60,11 +61,6 @@ All doors can be customized once downloaded.
 ## how to upload?
 
 * You need have access to a web server allowing directory listing
-
-## Download
-
-To download the full platform click here:
-
 
 
 `▶ ▲ ▼`
