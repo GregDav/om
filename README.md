@@ -29,13 +29,30 @@ Maslo Om is a creation platform. It allows to stack, view and manipulate any typ
 
 ## how to add content?
 
-There is 3 ways to add content
+There is 3 ways you can add content
 
 ### Make a text file
-### Create shortcuts
+
+* Save the html door in [aboutme/makemyown/example1](https://github.com/GregDav/om/tree/master/aboutme/makemyown/Example1)
+* In the same folder, place a text file named "destinations.txt" containing all the URL links to the sources you wish to consult.
+* This door will parse the text and find all the "http" and display them.
+
 ### List sources
 
+* Save the html door in [aboutme/makemyown/example2](https://github.com/GregDav/om/tree/master/aboutme/makemyown/Example2)
+* Open the html file with text editor or notepad and edit the list of URL links to those you wish to consult.
+
+### Drop files/Create Shortcuts
+
+* Save the html door in [aboutme/makemyown/example3](https://github.com/GregDav/om/tree/master/aboutme/makemyown/Example3)
+* Simply drop any file or shortcut you wish to consult in the same folder as the knob.
+
 ## how to customize door?
+
+All doors can be customized once downloaded.
+* Open the html and add any html object inside the #door div.
+* if you place a div inside #door named #randomDoor you will have a pre-made random door appearing.
+* if you remove all content inside #door you will have a standard folder display.
 
 ## how to upload?
 
