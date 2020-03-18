@@ -21,7 +21,9 @@ Maslo Om is a creation platform. It allows to stack, view and manipulate any typ
 
 ## How to install?
 
-* First, you may have to bypass CORS error:
+* Download the full platform here: [Dropbox](https://www.dropbox.com/sh/a6yodxwl8qslcwp/AADo4L6UrVUZnnySkzkHa9-2a?dl=1)
+* Or save any specific door.html in the current repository, in the online platform or in the [Dropbox](https://www.dropbox.com/sh/a6yodxwl8qslcwp/AADo4L6UrVUZnnySkzkHa9-2a?dl=0).
+* Before opening with Firefox, you may have to bypass CORS error:
 * paste "about:config" in the URL bar of firefox
 * then paste "security.fileuri.strict_origin_policy" in Search Preference Name
 * then switch variable to false
@@ -56,7 +58,7 @@ All doors can be customized once downloaded.
 
 ## how to upload?
 
-_ You need have access to a web server allowing directory listing
+* You need have access to a web server allowing directory listing
 
 ## Download
 
