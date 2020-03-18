@@ -18,11 +18,12 @@ Maslo Om is a creation platform. It allows to stack, view and manipulate any typ
 ## How to view?
 
 * (Soon here: a link to view the platform online)
+* Or install (see below).
 
 ## How to install?
 
 * Download the full platform here: [Dropbox](https://www.dropbox.com/sh/a6yodxwl8qslcwp/AADo4L6UrVUZnnySkzkHa9-2a?dl=1)
-* Or save any specific door.html in the current repository, in the online platform or in the [Dropbox](https://www.dropbox.com/sh/a6yodxwl8qslcwp/AADo4L6UrVUZnnySkzkHa9-2a?dl=0).
+* Or save any specific door.html from the current repository, from the online platform or from the [Dropbox](https://www.dropbox.com/sh/a6yodxwl8qslcwp/AADo4L6UrVUZnnySkzkHa9-2a?dl=0).
 * Before opening with Firefox, you may have to bypass CORS error:
 * paste "about:config" in the URL bar of firefox
 * then paste "security.fileuri.strict_origin_policy" in Search Preference Name
@@ -63,7 +64,7 @@ All doors can be customized once downloaded.
 ## Download
 
 To download the full platform click here:
-[Dropbox](https://www.dropbox.com/sh/a6yodxwl8qslcwp/AADo4L6UrVUZnnySkzkHa9-2a?dl=1)
+
 
 
 `▶ ▲ ▼`
