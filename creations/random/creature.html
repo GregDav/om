@@ -1,0 +1,183 @@
+<!--
+  __  __   _   ___ _    ___    ___      ___  
+ |  \/  | /_\ / __| |  / _ \  | _ \_ _ |   \ 
+ | |\/| |/ _ \\__ \ |_| (_) | |   / ' \| |) |
+ |_|  |_/_/ \_\___/____\___/  |_|_\_||_|___/ 
+ 
+Developed for Firefox.                                             
+First, bypass CORS error:
+_ paste "about:config" in the URL
+_ then paste "security.fileuri.strict_origin_policy" in Search Preference Name
+_ then switch variable to false
+Now: 
+_ Stack away
+_ Customize door below
+_ Create files, make story
+
+▶ ▲ ▼ - 03/13/2020
+-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Language" content="en">
+<meta NAME="Keywords" CONTENT="art">
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-106568684-5"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'UA-106568684-5');</script>
+<title>◯.</title>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.js" type="text/javascript"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+$(document).ready(function(){ 
+	var destination = [];
+
+	$('#doorbg, #personality, #personality h1').css({transform: 'scale(1.08)'});
+	$('#personality').css({opacity: '1'});
+	
+	var landscapes = ["https://66.media.tumblr.com/6e056f0d6a847d221a2f9c1ed68d0ecc/tumblr_ovihqs9j8P1upvbufo1_540.gifv", "https://66.media.tumblr.com/5ee625327bcd644f06ba0b00b5b475ce/tumblr_ow8ha3aWOf1upvbufo1_540.gifv", "https://66.media.tumblr.com/a49e280539f479aaf50c5df3deb38ead/tumblr_p0jl2easc31upvbufo1_r1_540.gifv", "https://66.media.tumblr.com/c863a8a7175338b1d3737bae929208a9/tumblr_p144ztcur21upvbufo1_540.gifv", "https://66.media.tumblr.com/ad79ed351da812382ff7b050f2a60903/tumblr_oua67aJRtA1upvbufo1_540.gifv", "https://66.media.tumblr.com/1a303a17c4c56e363d0a3163082a14d0/tumblr_orr6okjOdd1upvbufo1_r2_540.gifv", "https://66.media.tumblr.com/c5131136b36d7257ea8c88edbda779ff/tumblr_ordx2xyi4r1upvbufo1_r1_540.gifv", "https://66.media.tumblr.com/dbd89ae1bfb6e89e15e19d2f95ca1d47/tumblr_oqokxzJbbI1upvbufo1_540.gifv", "https://66.media.tumblr.com/cffa91212dd1c7271ef684a30ff96ce1/tumblr_oqh6lvAR7B1upvbufo1_540.gifv", "https://66.media.tumblr.com/ac864b2fb8d459ab5c495e57a77eddc9/tumblr_ope4czvKZG1upvbufo1_540.gifv", "https://66.media.tumblr.com/9cdf63be9a3923812c0754882f9f560c/tumblr_op8q3cl7lH1upvbufo1_540.gifv", "https://66.media.tumblr.com/3524464fb5b387af675f5170d9cf8aa2/tumblr_op1djlq9pB1upvbufo1_540.gifv", "https://66.media.tumblr.com/69bc91415211265b5e7d88295ece5453/tumblr_oovpxr6Uxp1upvbufo1_540.gifv", "https://66.media.tumblr.com/79d56b0d3ed788456f9d5bbe2f29c2a6/tumblr_ooo7yvCQT01upvbufo1_540.gifv", "https://66.media.tumblr.com/e47ef8b3dacc07d58e225300905e4292/tumblr_ooiodgMrbC1upvbufo1_540.gifv", "https://66.media.tumblr.com/e38a82f2bf894c6fee855c9042006401/tumblr_oo5r9gFZBZ1upvbufo1_540.gifv", "https://66.media.tumblr.com/9b92a0a14f3f9eb46439567c5cecec1f/tumblr_okk8yjBn9b1upvbufo1_r2_540.gifv", "https://66.media.tumblr.com/7cc68b17c1cded0d360b651ab6ecf00c/tumblr_okpk5wqd8L1upvbufo1_540.gifv", "https://66.media.tumblr.com/4830f96f89d1bbe46796deb326a71164/tumblr_oiia26QLh41upvbufo1_540.gifv", "https://66.media.tumblr.com/89863d63ae581de094871c20024a269c/tumblr_oh3nr7D19M1upvbufo1_540.gifv", "https://66.media.tumblr.com/b4b1fd1d25923578cbb678b57561eabc/tumblr_ogqv7iNGwW1upvbufo1_r1_540.gifv", "https://66.media.tumblr.com/b2c16cb3f85c0c7bd1a9e13d0d28746b/tumblr_ofiaqekG2f1upvbufo1_540.gifv", "https://66.media.tumblr.com/c780ec210b9c56c8958f9a36ad53ba6c/tumblr_ofb74s64Nu1upvbufo1_r3_540.gifv", "https://66.media.tumblr.com/a5d7044ef982d0a2d1a246be066807c7/tumblr_oeyee9jiTP1upvbufo1_540.gifv", "https://66.media.tumblr.com/44830a3bb4359d1eac5dbbd178df08c6/tumblr_oexq89vPFJ1upvbufo1_540.gifv", "https://66.media.tumblr.com/e9e3b735028abb0fa7422f76026058fe/tumblr_od1wmw6QPn1upvbufo1_540.gifv", "https://66.media.tumblr.com/edebe22dd5fd93b748429918951b3a2b/tumblr_ocqspqhEFB1upvbufo1_r4_540.gifv", "https://66.media.tumblr.com/14c92b4c5c0c7abf777754db53658222/tumblr_ocmqxrq7pv1upvbufo1_540.gifv", "https://66.media.tumblr.com/40d910c1c7a7ad4c805fdee6ceef2587/tumblr_ocfjg8KecB1upvbufo1_540.gifv", "https://66.media.tumblr.com/06c485c038be5d8c2d02fe74e3fb79b2/tumblr_oc4ig3Aynv1upvbufo1_r2_540.gifv", "https://66.media.tumblr.com/2fc3d9d59e2983fb8f0c8712c347bb40/tumblr_oc2d8chl5N1upvbufo1_r1_540.gifv", "https://66.media.tumblr.com/638b466f943395504d2e20992fea40b9/tumblr_obov8ixMVl1upvbufo1_r2_540.gifv", "https://66.media.tumblr.com/6daa1a2f558a15451b24c2b1f654938d/tumblr_objdmtrrnz1upvbufo1_r1_540.gifv", "https://66.media.tumblr.com/93ae590009860cc9558b4328b17ba51e/tumblr_oazozfDsw71upvbufo1_540.gifv", "https://66.media.tumblr.com/0019b662e6b5dead61830f0e0b2e0204/tumblr_oaq106cwya1upvbufo1_540.gifv", "https://66.media.tumblr.com/3b5b7b88dd15ac28c079ed4198b7d350/tumblr_oal4a1CT6a1upvbufo1_540.gifv", "https://66.media.tumblr.com/256871d72381a3c3386632d3fc34a6c7/tumblr_oa7qpctZGz1upvbufo1_540.gifv", "https://66.media.tumblr.com/e04cd1ecfbcac88c438665fd3211a5d5/tumblr_oa46vlyhrR1upvbufo1_540.gifv", "https://66.media.tumblr.com/6ef7716b8de26e3ae6babd6573bb9beb/tumblr_o9rd8p80PB1upvbufo1_540.gifv", "https://66.media.tumblr.com/2512ece31dddfe2fafd7001fd2143f74/tumblr_o94v6ypp2m1upvbufo1_540.gifv", "https://66.media.tumblr.com/0f9d62718293b2cc832b0e23d7cd92b9/tumblr_o8o0u2Sjr01upvbufo1_540.gifv", "https://66.media.tumblr.com/6680c67fc811d6ad3a97dbeccc76233b/tumblr_o8h0rmVKEr1upvbufo1_540.gifv", "https://66.media.tumblr.com/973e1008a52cd7436556cf9ef1207e66/tumblr_o7dmiy3Jy91upvbufo1_r1_540.gifv", "https://66.media.tumblr.com/34a4942589b5ab65cee40516edea4c95/tumblr_o7ftfqPqbd1upvbufo1_540.gifv", "https://66.media.tumblr.com/f5fe3f3d78c654523a0673eebdf402a0/tumblr_o3048es9jX1upvbufo1_r1_540.gifv", "https://66.media.tumblr.com/e4ad898a89f96ecc53ffbd1496a46596/tumblr_o6r9407Vza1upvbufo1_r1_540.gifv", "https://66.media.tumblr.com/89169c1e1bfb9bc739256a8a6e7b9832/tumblr_o4urmtrsRY1upvbufo1_540.gifv"];
+	
+	var randomLand = landscapes[Math.floor(Math.random()*landscapes.length)];
+	$('#doorbg').css({'backgroundImage':"url("+randomLand+")"});
+	
+	
+	// Code goes here
+
+var initials = ['b', 'bl', 'br', 'bh', 'd', 'dr', 'f', 'fr', 'fl', 'ph', 'g', 'gr', 'gl', 'gh', 'h', 'j', 'c', 'k', 'ch', 'cl', 'cr', 'chr', 'l', 'm', 'n', 'kn', 'gn', 'p', 'pr', 'pl', 'r', 'wr', 's', 'ps', 'sc', 'sch', 't', 'pt', 'v', 'w', 'wh', 'y', 'z', 'th', 'ch', 'sh', 'qu'];
+var nucleii = ['a', 'e', 'i', 'o', 'u', 'ae', 'ee', 'ie', 'oe', 'ue', 'oo', 'au', 'oi', 'ai', 'ea', 'y', 'ye', 'ou', 'oy', 'ey', 'uy', 'ay'];
+var finals = ['b', 'd', 'f', 'g', 'ge', 'dge', 'ck', 'x', 'ks', 'cks', 'l', 'm', 'mb', 'n', 'p', 'r', 's', 'se', 'ce', 't', 'v', 've', 'w', 'we', 'y', 'z', 'th', 'the', 'ch', 'tch', 'sh', 'sch', 'ng'];
+
+function random(min, max) {
+  return Math.floor(Math.random() * (max - min + 1)) + min;
+}
+
+function phoneme(forceInitial) {
+  var config = random(1, 3);
+  var target = '';
+  if (forceInitial)
+    config = config | 1;
+  var initial = random(0, initials.length - 1);
+  var nucleus = random(0, nucleii.length - 1);
+  var final = random(0, finals.length - 1);
+  if ((config & 1) == 1)
+    target += initials[initial];
+  target += nucleii[nucleus];
+  if ((config & 2) == 2) {
+    target += finals[final];
+  }
+  return {
+    result: config,
+    text: target,
+  };
+}
+
+function correctCase(text) {
+  return text.substring(0, 1).toUpperCase() + text.substring(1);
+}
+
+function regionName() {
+  var count = random(1, 2);
+  var force = false;
+  var word = '';
+  for (var j = 0; j < count || word.length < 2; j++) {
+    var result = phoneme(force);
+    force = ((result.result & 2) === 0);
+    word += result.text;
+  }
+  word = correctCase(word);
+  if (word.length < 5 && random(0, 3) === 0) {
+    var secondWord = correctCase(phoneme(false).text);
+    word = word + ' ' + secondWord;
+  }
+  return word;
+}
+
+function peopleName(base) {
+  var vowels = ['a', 'e', 'i', 'o', 'u', 'y'];
+  if (base.indexOf(' ') >= 0) {
+    switch (random(0, 2)) {
+      case 0:
+        base = base;
+        break;
+      case 1:
+        base = base.substring(0, base.indexOf(' '));
+        break;
+      case 2:
+        base = base.substring(base.indexOf(' ') + 1);
+        break;
+    }
+  }
+  if (vowels.indexOf(base.substring(base.length - 1), 1) < 0) {
+    switch (random(0, 2)) {
+      case 0:
+        return base + 'ian';
+      case 1:
+        return base + 'i';
+      case 2:
+        return base + 'ish';
+    }
+  } else {
+    switch (random(0, 3)) {
+      case 0:
+        return base + 'an';
+      case 1:
+        return base;
+      case 2:
+        if (base.length < 5)
+          return base + 'ic';
+        return base.substring(0, base.length - 1) + 'ic';
+      case 3:
+        if (base.length < 5)
+          return base + 'ish';
+        return base.substring(0, base.length - 1) + 'ish';
+    }
+  }
+  return base;
+}
+
+function generateRegion() {
+  var output = '';
+    output += regionName();
+	$('#personality h1').text(output);
+}
+
+function generatePeople() {
+  var quantityString = document.forms.form.quantity.value;
+  var numberRegex = new RegExp('^[0-9]+$');
+  quantity = 1;
+  if (numberRegex.test(quantityString))
+    quantity = parseInt(quantityString);
+  var output = '';
+  for (var i = 0; i < quantity; i++) {
+    var region = regionName();
+    output += 'The ' + peopleName(region) + ' people of ' + region + '<br>';
+  }
+
+	$('#personality h1').css({opacity: '1'});
+}
+	
+	
+	
+	generateRegion();
+	
+});
+</script>
+<link href="http://alivemachine.io/maslom/CSS/knobStyle.css" rel="stylesheet" type="text/css" />
+<script src="http://alivemachine.io/maslom/Javascript/loader.js" type="text/javascript"></script>
+<meta name="viewport" content="initial-scale=0.8, maximum-scale=0.8, width=400, initial-scale=1">
+</head>
+<body><div id="content"><div id="experienceContainer" ><div id="frame1"></div><div id="frame2"></div></div><div id="protector"></div>
+<!--------------------------------------------------------------------------------------------------------------->
+  <!--Here the door (Customize here)-->
+  <div id="door" >
+	<div id="doorbg" style="position:absolute; background-image: url(https://66.media.tumblr.com/6e4f105988af07b44c6e6239dd63362a/tumblr_os48enkNxy1upvbufo1_r1_540.gifv); width:100%; height:100%; background-position:center; background-size: cover; -ms-transition: all 3s ease-out; -moz-transition: all 3s ease-out; -o-transition: all 3s ease-out; -webkit-transition: all 3s ease-out;"></div><div id="personality" style="opacity: 0; -ms-transition: all 3s ease-out; -moz-transition: all 3s ease-out; -o-transition: all 3s ease-out; -webkit-transition: all 3s ease-out; transform: scale(.8)"><h1></h1>Click through to capture your new companion</br></br></div>
+  </div>
+  
+  <!--Here the knob-->
+ 
+  <div id="interface" style="position:absolute;"><div id="id" style="mix-blend-mode:;"></div><div id="throughname" style="mix-blend-mode:;"></div><div id="knob" style="mix-blend-mode:;"><div id="outerknob"><div id="handleout"></div><div id="innerknob"> <a id="through" onClick="goThrough();"></a><div id="handlein"></div></div></div></div></div>
+   <iframe style="position:absolute; width:100%; height:100%; z-index:200;" allowFullScreen='true' src='oneboid.html' frameborder='0'></iframe>
+</div>
+<!-------------------------------------------------------------------------------------------------------------
+<script src="http://alivemachine.io/maslom/Javascript/innerknob.js" type='text/javascript'></script>
+<script src="http://alivemachine.io/maslom/Javascript/outerknob.js" type="text/javascript"></script>--> 
+</body></html>
